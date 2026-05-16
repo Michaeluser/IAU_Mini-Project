@@ -52,9 +52,12 @@ The models are evaluated using:
 .
 ├── Dataset/
 │   └── household_power_consumption.txt
-├── mproject_Bei_Chepara.ipynb
+├── Info/
+│   └── links.txt
+├── .gitignore
 ├── LICENSE
-└── README.md
+├── README.md
+└── mproject_Bei_Chepara.ipynb
 ```
 
 ## Notebook
